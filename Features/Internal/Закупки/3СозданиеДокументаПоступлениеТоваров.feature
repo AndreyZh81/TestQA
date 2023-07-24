@@ -1,6 +1,7 @@
 ﻿#language: ru
-
-
+//@ExportScenarios
+//@IgnoreOnCIMainBuild
+@Закупки
 
 Функционал: создание документа Поступление товаров
 
